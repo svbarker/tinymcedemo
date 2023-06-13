@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* .tox .tox-autocompleter .tox-menu {
+  max-width: 28em;
+} */
+
+.tox .tox-collection__item-container--row {
+  gap: 10px;
+}
+
+.cardmenuitem-image {
+  width: 15px !important;
+  max-width: 15px !important;
+}
+
+.cardmenuitem-title {
+  font-weight: bold !important;
+}
+
+.cardmenuitem-subtitle {
+  color: #aaaaaa !important;
+  font-size: 12px !important;
+}
